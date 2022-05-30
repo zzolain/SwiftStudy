@@ -6,11 +6,26 @@
 	objectVersion = 55;
 	objects = {
 
+/* Begin PBXFileReference section */
+		FF0AEB4E2843303B00B80BB3 /* 왜숫자타입을사용하나요.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "왜숫자타입을사용하나요.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FF0AEB502845780F00B80BB3 /* AdapterPattern.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AdapterPattern.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		FF0AEB4728432FFB00B80BB3 = {
 			isa = PBXGroup;
 			children = (
+				FF0AEB4F284577F500B80BB3 /* DesignPattern */,
+				FF0AEB4E2843303B00B80BB3 /* 왜숫자타입을사용하나요.playground */,
 			);
+			sourceTree = "<group>";
+		};
+		FF0AEB4F284577F500B80BB3 /* DesignPattern */ = {
+			isa = PBXGroup;
+			children = (
+				FF0AEB502845780F00B80BB3 /* AdapterPattern.playground */,
+			);
+			path = DesignPattern;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
